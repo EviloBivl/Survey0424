@@ -43,6 +43,7 @@
 		24B758B72BDA30AD00956BE3 /* FileStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B758B62BDA30AD00956BE3 /* FileStorage.swift */; };
 		24B758BC2BDA968B00956BE3 /* MessageUIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B758BB2BDA968B00956BE3 /* MessageUIHelper.swift */; };
 		24B758BE2BDAC81900956BE3 /* SurveyResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B758BD2BDAC81800956BE3 /* SurveyResult.swift */; };
+		5C225D2A2EA769270016EFF0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5C225D292EA769270016EFF0 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -103,6 +104,7 @@
 		24B758B62BDA30AD00956BE3 /* FileStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileStorage.swift; sourceTree = "<group>"; };
 		24B758BB2BDA968B00956BE3 /* MessageUIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageUIHelper.swift; sourceTree = "<group>"; };
 		24B758BD2BDAC81800956BE3 /* SurveyResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurveyResult.swift; sourceTree = "<group>"; };
+		5C225D292EA769270016EFF0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +196,7 @@
 		2481DCC02BD286D1008C3007 = {
 			isa = PBXGroup;
 			children = (
+				5C225D292EA769270016EFF0 /* README.md */,
 				2481DCCB2BD286D1008C3007 /* Survey0424 */,
 				2481DCE22BD286D3008C3007 /* Survey0424Tests */,
 				2481DCEC2BD286D3008C3007 /* Survey0424UITests */,
@@ -382,6 +385,7 @@
 				24B758AB2BD98C2F00956BE3 /* ProximaNova-Extrabld.ttf in Resources */,
 				24B758A82BD98C2F00956BE3 /* ProximaNova-Light.ttf in Resources */,
 				24B758AC2BD98C2F00956BE3 /* ProximaNova-Bold.ttf in Resources */,
+				5C225D2A2EA769270016EFF0 /* README.md in Resources */,
 				2481DCD62BD286D3008C3007 /* Assets.xcassets in Resources */,
 				24B758A92BD98C2F00956BE3 /* ProximaNovaT-Thin.ttf in Resources */,
 				2481DCD42BD286D1008C3007 /* SurveyScreen.storyboard in Resources */,
